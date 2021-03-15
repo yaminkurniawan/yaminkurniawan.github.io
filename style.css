@@ -1,0 +1,22 @@
+.carousel-item {
+	height: 657px;
+	text-align: center;
+}
+
+.carousel-caption text-center {
+	text-align: center;
+
+}
+
+/*jumbotron*/
+/*.jumbotron {
+	background: transparent;
+	text-align: center;
+	margin-top: 100px;
+}
+.jumbotron display-4 {
+	font: bold;
+}
+.jumbotron h3 {
+	font: 25px;
+}*/
